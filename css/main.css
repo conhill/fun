@@ -299,8 +299,6 @@ video{
     object-fit: fill;
 }
 
-selector { cursor: none; }
-
 h1{
     position: absolute;
     font-family: 'Archivo Black', sans-serif;
@@ -312,4 +310,5 @@ h1{
     top: 60%;
     text-align: center;
     display: block;
+
 }
