@@ -312,3 +312,8 @@ h1{
     display: block;
 
 }
+
+#image{
+    position:absolute;
+        height: 50px
+}
